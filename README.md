@@ -1,5 +1,4 @@
-# 💫 About Me:
-💜 Olá, meu nome é Wdson Danrlei!<br><br>🌱 Atualmente estou estudando desenvolvimento back-end na cubos academy e descobrindo que <br>      programação é bem diferente do que eu imaginava(é pior kkkkk).<br><br>
+
 
 
 # 💻 Tech Stack:
